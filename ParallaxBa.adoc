@@ -5,7 +5,9 @@
 ParallaxBA, paralel açı özelliği parametreleştirmesine dayanan yeni bir paket ayarlama algoritmasıdır. Yeni parametrizasyonun, yakın ve uzaktaki özelliklerin farklı kamera hareketleri altında güvenilir şekilde temsil edilebileceği gösterilmiştir. Önerilen özellik parametrelerinin iyi bilgileri her zaman mevcuttur, çünkü sıfıra yakın paralaks nedeniyle bilgi matrisinin tekilliği önlenebilir. Dahası, yeni parametrelerin kullanılması, geleneksel Öklid XYZ'yi ve ters derinliği parametrizasyonu kullananlara kıyasla, objektif fonksiyonun daha iyi özelliklerine yol açar. Böylece ParallaxBA, mevcut BA algoritmalarıyla karşılaştırıldığında daha iyi yakınsama özelliklerine sahiptir.
 
 Kurulum::
-*cmake kurulumu
+
+*cmake kurulumu.
+
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_1.png?raw=true[]
 
 
