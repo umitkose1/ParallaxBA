@@ -11,13 +11,9 @@ Kurulum::
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_1.png?raw=true[]
 
 
-Adresinden indirdigimiz arsivdeki dosyalari masaustune cikartin.
+libeigen3 kurulumu.
 
-```bourne
-rosws init <cikarttiginiz arsivin adresi> </opt/ros/indigo/share == yani $ROS_PACKAGE_PATH ' iniz. Turtlebot imaji icin esitligin solundaki>
-```
-
-image::https://github.com/mayuce/Robotik-Sistemlere-Giris-Proje/blob/master/Images-for-ReadMe/gmapping/11.png?raw=true[]
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_2.png?raw=true[]
 
 artik gmapping kodunuz kullanima hazir. Not: Bende onceden yukledigim icin " Error " uyarisinin aldim.
 
