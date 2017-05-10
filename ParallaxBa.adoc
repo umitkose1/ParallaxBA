@@ -15,8 +15,9 @@ libeigen3 kurulumu.
 
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_2.png?raw=true[]
 
-artik gmapping kodunuz kullanima hazir. Not: Bende onceden yukledigim icin " Error " uyarisinin aldim.
+libsuitesparse kurulumu.
 
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_3.png?raw=true[]
 
 Adimlar::
 
