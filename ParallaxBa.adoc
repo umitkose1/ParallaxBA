@@ -21,7 +21,7 @@ image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_3.png?raw=
 
 Calistirma::
 
-* ParallaxBA -cam Cam170.txt -fea Feature170.txt -calib cal170.txt -solve LM -report report.txt.
+* ParallaxBA -cam Cam90.txt -fea Feature90.txt -calib cal90.txt -solve GN -report report.txt.
  
 
 * parallax veri setlerinin çalıştırılması ve çıkan sonuç.
