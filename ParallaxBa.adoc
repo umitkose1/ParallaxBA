@@ -19,15 +19,14 @@ libsuitesparse kurulumu.
 
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_3.png?raw=true[]
 
-Adimlar::
+Calistirma::
 
-* Asagidaki linten dosyayi indirin veya rosbag kullanarak kendi kaydinizi alin.
+* ParallaxBA -cam Cam170.txt -fea Feature170.txt -calib cal170.txt -solve LM -report report.txt.
  
-Indir = http://wiki.ros.org/slam_gmapping/Tutorials/MappingFromLoggedData#download
 
-* roscore'i calistirin
+* parallax veri setlerinin çalıştırılması ve çıkan sonuç.
 
-image::https://github.com/mayuce/Robotik-Sistemlere-Giris-Proje/blob/master/Images-for-ReadMe/gmapping/1.png?raw=true[]
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_4.png?raw=true[]
 
 ```bourne
  rosparam set use_sim_time true
