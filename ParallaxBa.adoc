@@ -8,7 +8,7 @@ Kurulum::
 
 Indir = https://github.com/ros-perception/slam_gmapping
 
-image::https://github.com/mayuce/Robotik-Sistemlere-Giris-Proje/blob/master/Images-for-ReadMe/gmapping/10.png?raw=true[]
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_1.png
 
 Adresinden indirdigimiz arsivdeki dosyalari masaustune cikartin.
 
