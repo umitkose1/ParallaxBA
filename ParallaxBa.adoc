@@ -671,4 +671,6 @@ pba_readAndInitialize( szCamera, szFeature, &m_ncams, &m_n3Dpts, &m_n2Dprojs,&m_
 
 Kamera poz ve özelliklerini oku ve özellik noktalarını başlat (üç çeşit açı).
 
+* Örnek dataset NewCollege çalıştırılması ve ortaya çıkan sonuç.
 
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_7.png?raw=true[]
