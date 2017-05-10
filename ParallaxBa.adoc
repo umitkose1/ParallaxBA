@@ -6,7 +6,10 @@ ParallaxBA, paralel açı özelliği parametreleştirmesine dayanan yeni bir pak
 
 Kurulum::
 
+Indir = https://github.com/ros-perception/slam_gmapping
+
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_1.png?raw=true[]
+
 
 Adresinden indirdigimiz arsivdeki dosyalari masaustune cikartin.
 
