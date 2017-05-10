@@ -6,7 +6,6 @@ ParallaxBA, paralel açı özelliği parametreleştirmesine dayanan yeni bir pak
 
 Kurulum::
 
-
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_1.png?raw=true[]
 
 
