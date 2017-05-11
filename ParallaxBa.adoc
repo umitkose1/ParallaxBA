@@ -674,3 +674,7 @@ Kamera poz ve özelliklerini oku ve özellik noktalarını başlat (üç çeşit
 * Örnek dataset NewCollege çalıştırılması ve ortaya çıkan sonuç.
 
 image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_7.png?raw=true[]
+
+* NewCollege datasetinin görselleştirilmiş hali.
+
+image::https://github.com/umitkose1/ParallaxBA/blob/master/Screenshot_8.png?raw=true[]
